@@ -1,2 +1,2 @@
 # begraph
-Bechmark Visualization Into Graphic Card
+Bechmark Visualization Into AMD Integrated/Discrete Graphic Card
